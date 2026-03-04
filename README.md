@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou Bruno Melo
 
-<!--
-**brmelodev/brmelodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Python em evolução  
+🚀 Construindo minha jornada na programação  
+📚 Focado em lógica, fundamentos e projetos práticos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivo
+
+Desenvolver uma base sólida em Python e construir projetos reais que demonstrem minha evolução como desenvolvedor.
+
+---
+
+## 🧠 Atualmente estudando
+
+- 🐍 Python (fundamentos)
+- 🔁 Estruturas condicionais e loops
+- 🧩 Funções
+- 🛠️ Git & GitHub
+
+---
+
+## 📂 Projetos que virão
+
+- Calculadora no terminal  
+- Jogo de adivinhação  
+- Gerador de senha  
+- Sistema simples de cadastro  
+
+---
+
+## 📫 Contato
+
+📧 brunomelo.dev.br@gmail.com  
+
+---
+
+⭐ Este perfil representa minha evolução constante como desenvolvedor.
