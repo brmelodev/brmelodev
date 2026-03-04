@@ -1,5 +1,4 @@
 # Python + Linux Estudos 🐍🐧
-
 Este repositório documenta minha evolução em Python e Linux, mostrando projetos, exercícios e scripts ao longo do aprendizado.
 
 Atualmente estudando: Python (fundamentos e projetos), Estruturas condicionais e loops, Funções, Git & GitHub, Linux (terminal, scripts, automação)
@@ -7,7 +6,6 @@ Atualmente estudando: Python (fundamentos e projetos), Estruturas condicionais e
 ## 💻 Efeito Hacker (simulado)
 ```bash
 while true; do echo "Iniciando script de aprendizado..."; sleep 1; done
-📝 Exemplos de Projetos
 
 Calculadora no terminal
 
