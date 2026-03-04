@@ -1,32 +1,19 @@
-# Python + Linux Estudos 🐍🐧
-Este repositório documenta minha evolução em Python e Linux, mostrando projetos, exercícios e scripts ao longo do aprendizado.
 
-Atualmente estudando: Python (fundamentos e projetos), Estruturas condicionais e loops, Funções, Git & GitHub, Linux (terminal, scripts, automação)
+# Bruno Melo - Dev Python + Linux 🐍🐧
 
-## 💻 Efeito Hacker (simulado)
-```bash
-while true; do echo "Iniciando script de aprendizado..."; sleep 1; done
+Bem-vindo ao meu perfil! Aqui registro minha evolução como desenvolvedor, com projetos, exercícios e scripts em Python e Linux.
 
-Calculadora no terminal
+## Projetos e Estudos
+- Calculadora no terminal  
+- Jogo de adivinhação  
+- Gerador de senha  
+- Scripts simples em Linux  
+- Sistema simples de cadastro  
 
-Jogo de adivinhação
+## Tecnologias que estou usando
+- Python  
+- Linux  
+- Git & GitHub  
 
-Gerador de senha
-
-Scripts simples em Linux
-
-Sistema simples de cadastro
-
-🖥️ ASCII / Hacker Style
-██████╗ ██╗   ██╗███████╗███╗   ██╗███████╗
-██╔══██╗██║   ██║██╔════╝████╗  ██║██╔════╝
-██████╔╝██║   ██║█████╗  ██╔██╗ ██║█████╗  
-██╔═══╝ ██║   ██║██╔══╝  ██║╚██╗██║██╔══╝  
-██║     ╚██████╔╝███████╗██║ ╚████║███████╗
-╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚══════╝
-
-📫 Contato
-
+## Contato
 📧 brunomelo.dev.br@gmail.com
-
-Este repositório representa minha prática e evolução constante como desenvolvedor
