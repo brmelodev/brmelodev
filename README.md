@@ -1,39 +1,29 @@
 # 👋 Olá, eu sou Bruno Melo
 
-💻 Desenvolvedor Python em evolução  
-🚀 Construindo minha jornada na programação  
-📚 Focado em lógica, fundamentos e projetos práticos  
+💻 Desenvolvedor em evolução  
+🐍 Focado em Python, automações e lógica  
+🐧 Estudando Linux, terminal e scripts para automação  
 
 ---
 
 ## 🎯 Objetivo
 
-Desenvolver uma base sólida em Python e construir projetos reais que demonstrem minha evolução como desenvolvedor.
+Construir uma base sólida como desenvolvedor, criando projetos reais e documentando minha evolução.
 
 ---
 
 ## 🧠 Atualmente estudando
 
-- 🐍 Python (fundamentos)
-- 🔁 Estruturas condicionais e loops
-- 🧩 Funções
-- 🛠️ Git & GitHub
+- Python (fundamentos e projetos)  
+- Estruturas condicionais e loops  
+- Funções  
+- Git & GitHub  
+- Linux (terminal, scripts, automação)  
 
 ---
 
-## 📂 Projetos que virão
+## 💻 Projetos e Scripts
 
-- Calculadora no terminal  
-- Jogo de adivinhação  
-- Gerador de senha  
-- Sistema simples de cadastro  
-
----
-
-## 📫 Contato
-
-📧 brunomelo.dev.br@gmail.com  
-
----
-
-⭐ Este perfil representa minha evolução constante como desenvolvedor.
+```bash
+# Exemplo de “efeito hacker” divertido no terminal
+while true; do echo "Iniciando script de aprendizado..."; sleep 1; done
