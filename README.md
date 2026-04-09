@@ -1,19 +1,48 @@
+# 👨‍💻 Bruno Melo | Python & Linux Developer
 
-# Bruno Melo - Dev Python + Linux 🐍🐧
+🚀 Desenvolvedor focado em automação com Python e ambientes Linux
+🐧 Criando soluções práticas para produtividade e otimização de sistemas
 
-Bem-vindo ao meu perfil! Aqui registro minha evolução como desenvolvedor, com projetos, exercícios e scripts em Python e Linux.
+---
 
-## Projetos e Estudos
-- Calculadora no terminal  
-- Jogo de adivinhação  
-- Gerador de senha  
-- Scripts simples em Linux  
-- Sistema simples de cadastro  
+## 💡 Sobre mim
 
-## Tecnologias que estou usando
-- Python  
-- Linux  
-- Git & GitHub  
+Sou um desenvolvedor em evolução constante, focado em construir projetos práticos com Python e Linux.
+Tenho interesse em automação, scripts e ferramentas que resolvem problemas reais do dia a dia.
 
-## Contato
-📧 brunomelo.dev.br@gmail.com
+---
+
+## 🛠 Tecnologias
+
+* Python
+* Linux
+* Git & GitHub
+
+---
+
+## 📌 Projetos em destaque
+
+🚀 **Linux Dev Setup Automator** *(em construção)*
+Script para automatizar configuração de ambiente de desenvolvimento Linux
+
+⚙️ **CLI Calculator Tool**
+Aplicação de linha de comando para operações matemáticas
+
+🔐 **Secure Password Generator**
+Gerador de senhas seguras com Python
+
+👤 **User System CLI**
+Sistema simples de cadastro via terminal
+
+---
+
+## 🎯 Objetivo
+
+Evoluir como desenvolvedor back-end, criando soluções cada vez mais robustas com Python e automação.
+
+---
+
+## 📫 Contato
+
+📧 [brunomelo.dev.br@gmail.com](mailto:brunomelo.dev.br@gmail.com)
+
