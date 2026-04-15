@@ -1,3 +1,8 @@
+# 🎬 YouTube Downloader Pro
+
+Aplicação desktop moderna para download de vídeos e áudios do YouTube com preview e barra de progresso.
+
+![Preview](assets/screenshot.png)
 # 👨‍💻 Bruno Melo | Python & Linux Developer
 
 🚀 Desenvolvedor focado em automação com Python e ambientes Linux
