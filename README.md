@@ -1,50 +1,34 @@
-# 🎬 YouTube Downloader Pro
+# 👋 Olá, eu sou o Brendo Melo!
+🚀 Iniciante em Desenvolvimento Web | Estudando e evoluindo um pouco a cada dia 💻
 
-Aplicação desktop moderna desenvolvida em Python para download de vídeos e áudios do YouTube com interface intuitiva, preview e barra de progresso.
+🎯 Meu objetivo: Me tornar um desenvolvedor completo, construindo projetos úteis e aprendendo sempre.
 
-![Preview](assets/screenshot.png)
+🛠️ Tecnologias que estou aprendendo e praticando:
+- HTML5 | CSS3 | JavaScript
+- TypeScript
+- React.js | Next.js
+- Tailwind CSS
+- Git e GitHub
 
----
+📂 Meus Projetos
+Aqui você encontra toda minha jornada: desde exercícios simples até aplicações completas.
+Os projetos mais antigos ficam aqui para mostrar de onde comecei — e os novos mostram o quanto já evoluí.
 
-## 🚀 Demonstração
+⭐ Projetos em destaque:
+- [flexpag-desafio-frontend](https://github.com/brmelodev/flexpag-desafio-frontend) → Desafio técnico de sistema financeiro
+- [app-galaxy](https://github.com/brmelodev/app-galaxy) → Aplicação com consumo de API pública
+- [app-vendas](https://github.com/brmelodev/app-vendas) → Sistema simples de cadastro e vendas
+- [cotacao](https://github.com/brmelodev/cotacao) → Consulta de cotações de moedas
 
-- 🔍 Preview do vídeo (thumbnail + título)
-- ⬇ Download de vídeos em alta qualidade
-- 🎵 Extração de áudio (MP3)
-- 📊 Barra de progresso em tempo real
-- 💾 Salvamento automático na pasta Downloads
-- 🎨 Interface moderna (CustomTkinter)
-- 🖥️ Integração com Linux (executável no menu)
+📈 Meu acompanhamento de estudos:
+👉 [Clique aqui para ver minha evolução diária e exercícios](https://github.com/brmelodev/estudos-e-evolucao)
 
----
-
-## 🧠 Desafio Resolvido
-
-Este projeto resolve a dificuldade de baixar vídeos do YouTube sem depender de comandos complexos no terminal, oferecendo uma experiência simples, visual e acessível para qualquer usuário.
-
----
-
-## 🛠 Tecnologias Utilizadas
-
-- Python 3.12  
-- CustomTkinter  
-- yt-dlp  
-- Pillow  
-- Requests  
+📫 Contato:
+- Email: brendomelo.dev@gmail.com
+- LinkedIn: [COLE AQUI O LINK DO SEU LINKEDIN, SE TIVER]
 
 ---
-
-## 📦 Instalação
-
-```bash
-git clone https://github.com/brmelodev/youtube-downloader-pro
-cd youtube-downloader-pro
-
-python -m venv venv
-source venv/bin/activate
-
-pip install -r requirements.txt
-
+*"Cada linha de código é um passo a mais na minha jornada"*
 
 
 
