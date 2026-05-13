@@ -1,34 +1,30 @@
 # 👋 Olá, eu sou o Brendo Melo!
-🚀 Iniciante em Desenvolvimento Web | Estudando e evoluindo um pouco a cada dia 💻
+🚀 Iniciante em Desenvolvimento Web | Começando minha jornada agora 💻
 
-🎯 Meu objetivo: Me tornar um desenvolvedor completo, construindo projetos úteis e aprendendo sempre.
+🎯 Meu objetivo: Aprender cada dia mais, construir projetos e me tornar um desenvolvedor Front-end.
 
-🛠️ Tecnologias que estou aprendendo e praticando:
+🛠️ O que estou estudando agora:
 - HTML5 | CSS3 | JavaScript
 - TypeScript
-- React.js | Next.js
+- React.js
 - Tailwind CSS
 - Git e GitHub
 
-📂 Meus Projetos
-Aqui você encontra toda minha jornada: desde exercícios simples até aplicações completas.
-Os projetos mais antigos ficam aqui para mostrar de onde comecei — e os novos mostram o quanto já evoluí.
+📂 Meus Repositórios
+Aqui vou guardar tudo o que eu aprender e desenvolver: exercícios, testes e projetos completos.
+Tudo é registrado para mostrar minha evolução do zero até onde eu chegar.
 
-⭐ Projetos em destaque:
-- [flexpag-desafio-frontend](https://github.com/brmelodev/flexpag-desafio-frontend) → Desafio técnico de sistema financeiro
-- [app-galaxy](https://github.com/brmelodev/app-galaxy) → Aplicação com consumo de API pública
-- [app-vendas](https://github.com/brmelodev/app-vendas) → Sistema simples de cadastro e vendas
-- [cotacao](https://github.com/brmelodev/cotacao) → Consulta de cotações de moedas
+⭐ O que já tenho aqui:
+- [flexpag-desafio-frontend](https://github.com/brmelodev/flexpag-desafio-frontend) → Projeto de estudo (em construção)
+- [app-galaxy](https://github.com/brmelodev/app-galaxy) → Prática com API (em construção)
+- [app-vendas](https://github.com/brmelodev/app-vendas) → Sistema simples (em construção)
+- [cotacao](https://github.com/brmelodev/cotacao) → Consulta de valores (em construção)
 
-📈 Meu acompanhamento de estudos:
-👉 [Clique aqui para ver minha evolução diária e exercícios](https://github.com/brmelodev/estudos-e-evolucao)
+📈 Meu diário de estudos:
+👉 [Clique aqui para ver o que aprendo dia a dia](https://github.com/brmelodev/estudos-e-evolucao)
 
 📫 Contato:
 - Email: brendomelo.dev@gmail.com
-- LinkedIn: [COLE AQUI O LINK DO SEU LINKEDIN, SE TIVER]
 
 ---
-*"Cada linha de código é um passo a mais na minha jornada"*
-
-
-
+*"Começar é o primeiro passo para evoluir"*
